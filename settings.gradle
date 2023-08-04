@@ -12,6 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
 rootProject.name = "MyLibraryJava"
 include ':app'
 include ':mylibrary'
